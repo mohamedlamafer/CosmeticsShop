@@ -44,14 +44,15 @@ Un formulaire permet de créer un compte avec :
 
 ##  Captures d’écran 
 
-<img src="screenshots/im1.png" width="250"/>  
-<img src="screenshots/im2.png" width="250"/>  
-<img src="screenshots/im3.png" width="250"/>  
-<img src="screenshots/im4.png" width="250"/>
+<img src="screenshot/1.png" width="250"/>  
+<img src="screenshots/2.png" width="250"/>  
+<img src="screenshots/3.png" width="250"/>  
+<img src="screenshots/4.png" width="250"/>
 
 
 
 ---
 
 ## 🏗 Structure du projet
+
 
