@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CosmeticsShop</string>
+    <string name="welcome">Bismillah — Create an account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password (min 8)</string>
+    <string name="create_account">Créer compte</string>
+    <string name="cart">🛒 Panier</string>
+    <string name="add_to_cart_q">Ajouter ce produit au panier ?</string>
+    <string name="add">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="added_cart">Produit ajouté au panier</string>
+    <string name="image_touched">Image touchée</string>
+    <string name="fill_all">Remplis tous les champs correctement</string>
+    <string name="password_short">Mot de passe trop court</string>
+    <string name="order">Commander</string>
+    <string name="total">Total:</string>
+    <string name="validate_order">Valider la commande</string>
+    <string name="cart_empty">Panier vide</string>
+    <string name="order_validated">Commande validée — merci !</string>
+    <string name="removed">Produit supprimé</string>
+    <string name="refresh">Rafraîchir</string>
+
+    <string-array name="gender_array">
+        <item>Homme</item>
+        <item>Femme</item>
+        <item>Autre</item>
+    </string-array>
+</resources>
